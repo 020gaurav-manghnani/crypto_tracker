@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/020gaurav-manghnani/crypto_tracker/static/css/main.75c871a0.chunk.css",
+    "main.js": "/020gaurav-manghnani/crypto_tracker/static/js/main.a1b40285.chunk.js",
+    "main.js.map": "/020gaurav-manghnani/crypto_tracker/static/js/main.a1b40285.chunk.js.map",
+    "runtime-main.js": "/020gaurav-manghnani/crypto_tracker/static/js/runtime-main.d1f95be8.js",
+    "runtime-main.js.map": "/020gaurav-manghnani/crypto_tracker/static/js/runtime-main.d1f95be8.js.map",
+    "static/js/2.2663c3df.chunk.js": "/020gaurav-manghnani/crypto_tracker/static/js/2.2663c3df.chunk.js",
+    "static/js/2.2663c3df.chunk.js.map": "/020gaurav-manghnani/crypto_tracker/static/js/2.2663c3df.chunk.js.map",
+    "index.html": "/020gaurav-manghnani/crypto_tracker/index.html",
+    "static/css/main.75c871a0.chunk.css.map": "/020gaurav-manghnani/crypto_tracker/static/css/main.75c871a0.chunk.css.map",
+    "static/js/2.2663c3df.chunk.js.LICENSE.txt": "/020gaurav-manghnani/crypto_tracker/static/js/2.2663c3df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1f95be8.js",
+    "static/js/2.2663c3df.chunk.js",
+    "static/css/main.75c871a0.chunk.css",
+    "static/js/main.a1b40285.chunk.js"
+  ]
+}
