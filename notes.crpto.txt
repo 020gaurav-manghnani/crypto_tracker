@@ -1,0 +1,6 @@
+axios= basically it allow us to get data from the api..
+
+take api from coingecko.
+select coins link
+try it out part- enter currency(inr)
+and execute
